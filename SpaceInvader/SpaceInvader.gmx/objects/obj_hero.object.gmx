@@ -54,7 +54,7 @@
             <string>if(obj_hero.x &lt; 0){
     obj_hero.hspeed = 0;
 }
-if(obj_hero.y &gt; 800){
+if(obj_hero.x &gt; 800){
     obj_hero.hspeed = 0;
 }
 </string>
